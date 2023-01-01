@@ -17,7 +17,7 @@ function Home() {
   }, []);
   return (
     <>
-      <Title>Trending today</Title>
+      <Title>Trending today:</Title>
       {loader && <Loader />}
       {trendingItems.length > 0 && <MovieList items={trendingItems} />}
     </>

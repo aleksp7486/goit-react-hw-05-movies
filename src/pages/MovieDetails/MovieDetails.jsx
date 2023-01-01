@@ -66,7 +66,7 @@ function MovieDetails() {
           <StyledLink to="reviews">Reviews</StyledLink>
         </Item>
       </Box>
-      <Suspense>
+      <Suspense fallback={null}>
         <Outlet />
       </Suspense>
     </main>
