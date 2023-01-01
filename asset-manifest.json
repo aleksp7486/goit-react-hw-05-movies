@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.efdff89a.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.be31fd5f.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.9e7d0a8a.js",
     "static/js/468.1858b477.chunk.js": "/goit-react-hw-05-movies/static/js/468.1858b477.chunk.js",
-    "static/js/202.ab2880cc.chunk.js": "/goit-react-hw-05-movies/static/js/202.ab2880cc.chunk.js",
+    "static/js/202.e6fac414.chunk.js": "/goit-react-hw-05-movies/static/js/202.e6fac414.chunk.js",
     "static/js/293.e2d05456.chunk.js": "/goit-react-hw-05-movies/static/js/293.e2d05456.chunk.js",
     "static/js/607.276c9d54.chunk.js": "/goit-react-hw-05-movies/static/js/607.276c9d54.chunk.js",
     "static/js/578.0c219dce.chunk.js": "/goit-react-hw-05-movies/static/js/578.0c219dce.chunk.js",
@@ -18,15 +18,15 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/goit-react-hw-05-movies/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "index.html": "/goit-react-hw-05-movies/index.html",
     "main.efdff89a.css.map": "/goit-react-hw-05-movies/static/css/main.efdff89a.css.map",
-    "main.be31fd5f.js.map": "/goit-react-hw-05-movies/static/js/main.be31fd5f.js.map",
+    "main.9e7d0a8a.js.map": "/goit-react-hw-05-movies/static/js/main.9e7d0a8a.js.map",
     "468.1858b477.chunk.js.map": "/goit-react-hw-05-movies/static/js/468.1858b477.chunk.js.map",
-    "202.ab2880cc.chunk.js.map": "/goit-react-hw-05-movies/static/js/202.ab2880cc.chunk.js.map",
+    "202.e6fac414.chunk.js.map": "/goit-react-hw-05-movies/static/js/202.e6fac414.chunk.js.map",
     "293.e2d05456.chunk.js.map": "/goit-react-hw-05-movies/static/js/293.e2d05456.chunk.js.map",
     "607.276c9d54.chunk.js.map": "/goit-react-hw-05-movies/static/js/607.276c9d54.chunk.js.map",
     "578.0c219dce.chunk.js.map": "/goit-react-hw-05-movies/static/js/578.0c219dce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.efdff89a.css",
-    "static/js/main.be31fd5f.js"
+    "static/js/main.9e7d0a8a.js"
   ]
 }
