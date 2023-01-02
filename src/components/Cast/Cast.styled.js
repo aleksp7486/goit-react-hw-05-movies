@@ -18,17 +18,13 @@ export const Item = styled.li`
 `;
 
 export const ImageWrap = styled.div`
-  display: flex;
-  flex-grow: 1;
-  background-color: #d1d5db;
+  overflow: hidden;
 `;
 
 export const Image = styled.img`
   width: 100%;
   height: 100%;
-  margin: auto;
-  object-fit: contain;
-  fill: red;
+  object-fit: cover;
 `;
 
 export const Text = styled.p`

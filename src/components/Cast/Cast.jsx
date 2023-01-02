@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import api from 'Services/tmdbAPI';
 import { List, Item, Image, ImageWrap, Text } from './Cast.styled';
-import noPhoto from 'images/noPhoto.svg';
+import noPhoto from 'images/noPhoto.png';
 function Cast() {
   const { id } = useParams();
   const [cast, setCast] = useState([]);
